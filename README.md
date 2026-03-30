@@ -25,3 +25,22 @@ Then install RenderCV:
 
 ```bash
 pip install rendercv
+
+# Step 2: Edit your CV content (YAML)
+
+# Open the file:
+Ats_CV.yaml
+
+# This file contains:
+# - Experience
+# - Skills
+# - Education
+# - Layout and structure
+
+# Key idea:
+# You separate CONTENT (YAML) from FORMAT (RenderCV)
+
+# Benefits:
+# - Easy to update
+# - Clean structure
+# - Reproducible CV
