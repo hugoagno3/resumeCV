@@ -8,12 +8,12 @@ Created on Sat Mar 21 09:27:50 2026
 """
 Created on Sun Mar 15 20:56:24 2026
 
-@author: Hugo
+@author: Hugo Amedei
 """
 
 # -*- coding: utf-8 -*-
 """
-Render Olga Bobrovska CV with RenderCV from Spyder
+Render ith RenderCV from Spyder
 """
 
 import os
@@ -24,8 +24,8 @@ import subprocess
 # =========================
 
 
-base_dir = r"C:\Users\Hugo\Desktop\Resume_Hugo_Amedei\AST_cv\boehringer application"
-yaml_file = os.path.join(base_dir, "Hugo_Amedei_CV.yaml")
+base_dir = r"C:\Users\Hugo\Desktop\Resume_Hugo_Amedei\AST_cv\Ats_cv"
+yaml_file = os.path.join(base_dir, "Ats_CV.yaml")
 output_dir = os.path.join(base_dir, "output")
 
 # =========================

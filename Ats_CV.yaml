@@ -1,0 +1,82 @@
+# yaml-language-server: $schema=https://raw.githubusercontent.com/rendercv/rendercv/refs/tags/v2.7/schema.json
+cv:
+  name: Dr. Hugo A. Amedei
+  headline: Protein Scientist | Mass Spectrometry & Biomarker Discovery
+  location: Baltimore, USA
+  email: hugoagno3@gmail.com
+  phone: "+1 443 463 5618"
+  photo: pic_example.jpg
+
+  social_networks:
+    - network: LinkedIn
+      username: hugoamedei
+
+  sections:
+
+    profile:
+      - "Protein scientist with strong expertise in LC-MS/MS proteomics and biomarker discovery. Experienced in DIA/DDA workflows, interactomics, and data analysis using R and Python. Passionate about combining experimental biology with data-driven approaches."
+
+    technical_skills:
+
+      - label: Proteomics
+        details: DIA/DDA workflows, TMT, PTM analysis, interactomics, protein networks
+
+      - label: Data Analysis
+        details: R, Python, statistical analysis, visualization, reproducible workflows
+
+    experience:
+
+      - company: Johns Hopkins University School of Medicine
+        position: Postdoctoral Researcher – Proteomics
+        location: Baltimore, USA
+        start_date: 2024-11
+        end_date: present
+        highlights:
+          - Developed DIA-based proteomics workflows for biomarker discovery.
+          - Performed protein interaction studies using AP-MS and SEC-MS.
+          - Analyzed large datasets using R and Python.
+
+      - company: University Medical Center Göttingen
+        position: PhD Research Scientist – Proteomics
+        location: Göttingen, Germany
+        start_date: 2020-12
+        end_date: 2024-09
+        highlights:
+          - Built quantitative LC-MS/MS workflows on Orbitrap and timsTOF systems.
+          - Applied cross-linking MS and complexome profiling.
+          - Developed an R package for protein complex analysis.
+
+    education:
+
+      - institution: University Medical Center Göttingen
+        area: Cardiovascular Proteomics
+        degree: Dr. rer. nat. – Proteomics
+        start_date: 2021
+        end_date: 2024
+
+    languages:
+      - label: English
+        details: Fluent
+      - label: German
+        details: B1 (actively improving)
+
+    publications_and_awards:
+      - bullet: "[Amedei H.A. et al., 2024](https://doi.org/10.3389/frans.2024.1425190). mCP: An R package for detection of protein complexes. Frontiers in Analytical Science. "
+      - bullet: "[Amedei H.A., 2024 (Thesis)](http://dx.doi.org/10.53846/goediss-10763). Development of Mass Spectrometry Analytical Methods, University of Göttingen."
+      - bullet: "[Foo B., Amedei H.A. et al.,2024](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0311203). SEC-MS analysis of protein complexes in cardiac samples. PLOS ONE."
+      - bullet: "mCP - R package for protein complex detection. [GitHub](https://github.com/hugoagno3/mCP)"
+
+
+design:
+  theme: engineeringresumes
+  header:
+    alignment: center
+    photo_position: right
+
+locale:
+  language: english
+
+settings:
+  render_command:
+    output_folder: rendercv_output
+    dont_generate_pdf: false
