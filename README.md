@@ -26,6 +26,7 @@ Then install RenderCV:
 ```bash
 pip install rendercv
 
+---
 🧾 Step 2 — YAML CV
 
 # Open the file:
