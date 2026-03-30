@@ -7,6 +7,10 @@ As a **protein scientist**, I don’t code every day — but this approach helpe
 The goal is simple:  
 👉 Help others build a clean, reproducible CV using minimal tools.
 
+<img width="1536" height="1024" alt="ChatGPT Image Mar 30, 2026, 04_36_41 PM" src="https://github.com/user-attachments/assets/14f29cdc-e294-4e98-9c0f-1a8b644eaa69" />
+
+
+
 ---
 
 ## 📂 Repository structure
@@ -70,11 +74,13 @@ Generate your CV automatically
 After running the script, your CV will be generated in:
 /output
 
+
 Generated files include:
 
 PDF (ATS-friendly CV)
 HTML version
 Markdown version
+[Dr._Hugo_A._Amedei_CV.pdf](https://github.com/user-attachments/files/26361360/Dr._Hugo_A._Amedei_CV.pdf)
 
 👉 The PDF file is ready to use for job applications.
 
