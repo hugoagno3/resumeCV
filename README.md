@@ -59,4 +59,29 @@ Then run:
 python AST_friendly_cvs.py
 
 ```
+This will:
 
+Call RenderCV
+Process your YAML file
+Generate your CV automatically
+
+📄 4. Output
+
+After running the script, your CV will be generated in:
+/output
+
+Generated files include:
+
+PDF (ATS-friendly CV)
+HTML version
+Markdown version
+
+👉 The PDF file is ready to use for job applications.
+
+🤝 Final note
+
+This workflow is designed to help create clean, structured CVs using simple tools (Python + YAML).
+
+As a protein scientist, I use Python occasionally, and I found this approach very useful for organizing and maintaining CVs.
+
+Feel free to adapt and use it for your own applications.
