@@ -45,3 +45,15 @@ Ats_CV.yaml
 '# - Easy to update
 '# - Clean structure
 '# - Reproducible CV
+---
+
+## 🖥️ 3. Run the script (Spyder or Python)
+
+You can run the script using **Spyder** or any Python IDE.
+
+Make sure the paths inside `AST_friendly_cvs.py` match your local directory:
+
+```python
+base_dir = r"C:\Users\Hugo\Desktop\Resume_Hugo_Amedei\AST_cv\Ats_cv"
+
+
