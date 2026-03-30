@@ -52,6 +52,7 @@ Make sure the paths inside `AST_friendly_cvs.py` match your local directory:
 ```python
 base_dir = r"C:\Users\Hugo\Desktop\Resume_Hugo_Amedei\AST_cv\Ats_cv"
 ## make sure that the yaml file match (yaml file can be opened and edited as a txt file).
+yaml_file = os.path.join(base_dir, "Ats_CV.yaml")
 ```
 Then run:
 ```python
