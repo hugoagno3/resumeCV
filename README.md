@@ -26,7 +26,7 @@ Then install RenderCV:
 ```bash
 pip install rendercv
 
-## 2. Edit your CV content (YAML)
+🧾 Step 2 — YAML CV
 
 # Open the file:
 Ats_CV.yaml
