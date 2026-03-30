@@ -32,16 +32,16 @@ pip install rendercv
 # Open the file:
 Ats_CV.yaml
 
-# This file contains:
-# - Experience
-# - Skills
-# - Education
-# - Layout and structure
+'# This file contains:
+'# - Experience
+'# - Skills
+'# - Education
+'# - Layout and structure
 
-# Key idea:
-# You separate CONTENT (YAML) from FORMAT (RenderCV)
+'# Key idea:
+'# You separate CONTENT (YAML) from FORMAT (RenderCV)
 
-# Benefits:
-# - Easy to update
-# - Clean structure
-# - Reproducible CV
+"# Benefits:
+'# - Easy to update
+'# - Clean structure
+'# - Reproducible CV
