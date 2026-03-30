@@ -49,10 +49,12 @@ Ats_CV.yaml
 You can run the script using **Spyder** or any Python IDE.
 
 Make sure the paths inside `AST_friendly_cvs.py` match your local directory:
-Then run:
 ```python
 base_dir = r"C:\Users\Hugo\Desktop\Resume_Hugo_Amedei\AST_cv\Ats_cv"
-
+```
+Then run:
+```python
 python AST_friendly_cvs.py
 
+```
 
