@@ -77,10 +77,8 @@ After running the script, your CV will be generated in:
 
 Generated files include:
 
-PDF (ATS-friendly CV)
-HTML version
-Markdown version
-[Dr._Hugo_A._Amedei_CV.pdf](https://github.com/user-attachments/files/26361360/Dr._Hugo_A._Amedei_CV.pdf)
+![Dr _Hugo_A _Amedei_CV_page-0001](https://github.com/user-attachments/assets/884597b3-efb0-4499-bd93-914fcfc71ba3)
+
 
 👉 The PDF file is ready to use for job applications.
 
