@@ -44,8 +44,8 @@ Ats_CV.yaml
 
 '# Key idea:
 '# You separate CONTENT (YAML) from FORMAT (RenderCV)
-
 '# Benefits:'# - Easy to update'# - Clean structure'# - Reproducible CV
+
 ---
 
 ## 🖥️ 3. Run the script (Spyder or Python)
