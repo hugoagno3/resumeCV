@@ -77,7 +77,8 @@ After running the script, your CV will be generated in:
 
 Generated files include:
 
-![Dr _Hugo_A _Amedei_CV_page-0001](https://github.com/user-attachments/assets/884597b3-efb0-4499-bd93-914fcfc71ba3)
+![Dr _Hugo_A _Amedei_CV_page-0001 (1)](https://github.com/user-attachments/assets/a7c5b650-83c0-427b-b4fc-94a4727b336b)
+
 
 
 👉 The PDF file is ready to use for job applications.
